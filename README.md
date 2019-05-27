@@ -1,12 +1,10 @@
 # JKIMDemo
 关于JKIMFramework的Demo
-#######################################################
+
 ### 使用Cocoapod集成的方式
 如果使用Cocoapod导入，请在Podfile文件导入以下命令。（如果想下载请下载JKIMPodDemo工程）
 pod 'JKIMFramework' , '~> 1.0.6'
 
-
-#######################################################
 ### 使用手动集成的方式
     1、在Linked Frameworks and Libraries 中添加
     libz.tbd
