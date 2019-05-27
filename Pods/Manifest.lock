@@ -1,0 +1,30 @@
+PODS:
+  - JKIMFramework (1.0.6):
+    - YYWebImage
+  - YYCache (1.0.4)
+  - YYImage (1.0.4):
+    - YYImage/Core (= 1.0.4)
+  - YYImage/Core (1.0.4)
+  - YYWebImage (1.0.5):
+    - YYCache
+    - YYImage
+
+DEPENDENCIES:
+  - JKIMFramework (~> 1.0.6)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - JKIMFramework
+    - YYCache
+    - YYImage
+    - YYWebImage
+
+SPEC CHECKSUMS:
+  JKIMFramework: f77ba1d6b15f3f957894fd42f94146385026d731
+  YYCache: 8105b6638f5e849296c71f331ff83891a4942952
+  YYImage: 1e1b62a9997399593e4b9c4ecfbbabbf1d3f3b54
+  YYWebImage: 5f7f36aee2ae293f016d418c7d6ba05c4863e928
+
+PODFILE CHECKSUM: 853f0b9b25214e2fb26d6e84ec6414bade1e90fe
+
+COCOAPODS: 1.6.1
