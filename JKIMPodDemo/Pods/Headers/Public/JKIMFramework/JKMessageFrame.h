@@ -1,0 +1,1 @@
+../../../JKIMFramework/JKIMFramework/JKIMFramework/Classes/JKMessageFrame.h
