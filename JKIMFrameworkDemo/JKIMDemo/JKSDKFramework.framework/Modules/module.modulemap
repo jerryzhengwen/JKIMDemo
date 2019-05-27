@@ -1,0 +1,6 @@
+framework module JKSDKFramework {
+  umbrella header "JKSDKFramework.h"
+
+  export *
+  module * { export * }
+}
