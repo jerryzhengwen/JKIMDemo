@@ -1,1 +1,0 @@
-../../../JKIMFramework/JKIMFramework/JKIMFramework/UI/JKImageAvatarBrowser.h
